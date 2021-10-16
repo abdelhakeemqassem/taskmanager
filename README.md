@@ -15,6 +15,9 @@
 ##### Run `php artisan key:generate` to generate the app key
 ##### Run `npm install`
 ##### Run `npm run dev`
+----------------------------------------------------
+## DataBase 
+##### Create Database With the Name `task`
 ##### Run `php artisan migrate`
 ##### Run `php artisan db:seed`                   
 -------------------------------------------------------------------------------------
